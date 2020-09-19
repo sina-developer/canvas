@@ -1,11 +1,11 @@
 # canvas
 
-**A simple framework to work with canvas easier - made with webpack**
+**A simple boilerplate to work with canvas easier - made with webpack**
 
 since coding in js for canvas needs much more coding than normal projects,
-i decide to create a little framework for managing codes better
+i decide to create a little boilerplate for managing codes better
 
-in this little framework, i use webpack as build tool also some common functionalities added to make things easier
+in this little boilerplate, i use webpack as build tool also some common functionalities added to make things easier
 
 ##### How to use it?
 
